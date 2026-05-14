@@ -1,0 +1,45 @@
+body{
+    background-color: #FFFDF1;
+}
+
+#c1{
+    padding: 50px;
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 50px;
+    background-color: #498428;
+    color: #EAEF9D;
+}
+input[type=search] {
+    width: 90%;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+}
+/*.announcement-img img {
+    border-radius: 8px;
+    margin: 10px 0;
+    display: block;
+    border: 1px solid #ddd;
+}
+/*---------------UI---------------------------------------------------------------------------*/
+    /* MOBILE */
+    @media (max-width: 600px){
+      .searchForm {
+        margin: 5px;
+      }
+    }
+    
+    /* TABLET  */
+    @media (min-width: 601px) and (max-width: 1200px) {
+
+    }
+    
+    /* DESKTOP  */
+    @media (min-width: 1200px) {
+
+    }
